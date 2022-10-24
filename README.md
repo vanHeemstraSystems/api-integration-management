@@ -1,5 +1,5 @@
-# api-integration-management
-Application Programming Interface (API) Integration Management
+# integration-management
+Integration Management
 
 Based on "Pipedream" at https://github.com/PipedreamHQ/pipedream
 
